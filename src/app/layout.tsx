@@ -25,8 +25,8 @@ export default function RootLayout({
         <Navbar />
         <main className="flex-grow flex flex-col items-center justify-center">
           {children}
-        </main>
         <Footer />
+        </main>
       </body>
     </html>
   );

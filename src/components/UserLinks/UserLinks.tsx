@@ -17,14 +17,17 @@ export default function Links({ changeStyles }: { changeStyles: string }) {
     {
       title: "Projet",
       path: "/projet",
+     
     },
     {
       title: "Calendrier",
       path: "/calendrier",
+     
     },
     {
       title: "Travail",
-      path: "/travail",
+      path: "/rapport",
+      
     },
   ];
 
